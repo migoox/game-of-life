@@ -5,7 +5,7 @@ in 2021 I created easy to use, simple implementation of John Conway's Game of Li
 Application has 2 scenes - **Info Scene** and **Game Scene**. Since there is no UI, Info Scene provides informations
 about all of the keybinds which allows you to navigate the program.
 
-![image](https://user-images.githubusercontent.com/56317134/218701658-d4363665-b450-4c7f-bb7d-b3a19f65b1c6.png)
+<img src="https://user-images.githubusercontent.com/56317134/218701658-d4363665-b450-4c7f-bb7d-b3a19f65b1c6.png" alt="Application screenshot" width=400/>
 
 Game Scene provides two states (modes) - **Drawing State** and **Simulation State**, you can switch between them using Spacebar. 
 In drawing mode one can save the game, load it, change the map size using predefinded sizes and more. Program also allows one simulation step forward option. 
