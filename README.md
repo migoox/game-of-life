@@ -1,5 +1,5 @@
 # Game of Life
-During Hackathon organized by KNI (Koło Naukowe Informatyków) on Warsaw Uinversity of Technology 
+During Hackathon organized by KNI (Koło Naukowe Informatyków) on Warsaw University of Technology 
 in 2021 I created easy to use, simple implementation of John Conway's Game of Life using C++ and SFML library. 
 ## Instructions
 Application has 2 scenes - **Info Scene** and **Game Scene**. Since there is no UI, Info Scene provides informations
